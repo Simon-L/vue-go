@@ -20,7 +20,7 @@ The `vue/` folder is mostly the [vue-webpack template](https://github.com/vuejs-
 * SASS/SCSS pre-processor enabled
 * `vue/config/index.js` includes configuration to proxy `/api` to the Golang backend [1]
 
-Even the component name `Hello.vue` is kept from the original boilerplate :)
+Even the component name `Hello.vue` is kept from the original boilerplate :smile:
 
 The `go/` folder contains `back.go`, a minimal program with no dependencies serving the current time in JSON to a request on route `/`.
 
